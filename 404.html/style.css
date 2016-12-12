@@ -1,0 +1,14 @@
+#tour-view .slide-icon{
+    font-size: 20em;
+}
+
+/*整个幻灯*/
+#tour-view .slider{
+    height:100%;
+}
+
+/*每个幻灯页*/
+#tour-view .slider-slide{
+    text-align: center;
+    padding-top: 100px;
+}
